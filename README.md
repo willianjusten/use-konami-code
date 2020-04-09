@@ -4,7 +4,7 @@
 
 ## Video 
 
-[Video explaining how to create - PtBr](https://youtu.be/EvR4RPBsHfE)
+[Video explaining how this hook was created - PtBr](https://youtu.be/EvR4RPBsHfE)
 
 ## How to use
 
