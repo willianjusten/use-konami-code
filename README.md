@@ -2,6 +2,10 @@
 
 > A simple custom react hook to verify a sequence of typed keys from the user.
 
+## Video 
+
+[Video explaining how to create - PtBr](https://youtu.be/EvR4RPBsHfE)
+
 ## How to use
 
 ```jsx
